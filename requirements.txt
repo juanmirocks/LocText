@@ -8,7 +8,7 @@ cymem==1.31.2
 gensim==0.13.3
 idna==2.6
 murmurhash==0.26.4
-nltk==3.2.1
+nltk==3.4.5
 numpy==1.11.2
 pathlib==1.0.1
 plac==0.9.6

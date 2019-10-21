@@ -32,7 +32,7 @@ setup(
         'scipy == 0.18.1',  # or 0.19.0
         'scikit-learn == 0.18.1',
         'spacy == 1.2.0',
-        'nltk == 3.2.1',
+        'nltk == 3.4.5',
 
         # Other
         'requests',
